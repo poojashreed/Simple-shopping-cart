@@ -1,0 +1,68 @@
+
+{
+  "Sarees": [
+    { "id": 1, "name": "Sarees 1", "price": 10, "image": "shirt.jpg" },
+    { "id": 2, "name": "Sarees 2", "price": 15, "image": "shirt.jpg" }
+  ],
+  "Kurtas": [
+    { "id": 1, "name": "Kurtas 1", "price": 20, "image": "shirt.jpg" },
+    { "id": 2, "name": "Kurtas 2", "price": 25, "image": "shirt.jpg" }
+  ],
+  "Tops": [
+    { "id": 1, "name": "Tops 1", "price": 30, "image": "shirt.jpg" },
+    { "id": 2, "name": "Tops 2", "price": 35, "image": "shirt.jpg" }
+  ],
+  "Womens Jeans": [
+    { "id": 1, "name": "Womens Jeans 1", "price": 40, "image": "shirt.jpg" },
+    { "id": 2, "name": "Womens Jeans 2", "price": 45, "image": "shirt.jpg" }
+  ],
+  "Shirts": [
+    { "id": 1, "name": "Shirts 1", "price": 50, "image": "shirt.jpg" },
+    { "id": 2, "name": "Shirts 2", "price": 55, "image": "shirt.jpg" }
+  ],
+  "Mens Jeans": [
+    { "id": 1, "name": "Mens Jeans 1", "price": 60, "image": "shirt.jpg" },
+    { "id": 2, "name": "Mens Jeans 2", "price": 65, "image": "shirt.jpg" }
+  ],
+  "Suits": [
+    { "id": 1, "name": "Suits 1", "price": 70, "image": "shirt.jpg" },
+    { "id": 2, "name": "Suits 2", "price": 75, "image": "shirt.jpg" }
+  ],
+  "Trousers": [
+    { "id": 1, "name": "Trousers 1", "price": 80, "image": "shirt.jpg" },
+    { "id": 2, "name": "Trousers 2", "price": 85, "image": "shirt.jpg" }
+  ],
+
+  "T-Shirts": [
+    { "id": 1, "name": "T-Shirts 1", "price": 10, "image": "shirt.jpg" },
+    { "id": 2, "name": "T-Shirts 2", "price": 15, "image": "shirt.jpg" }
+  ],
+  "Kids Jeans": [
+    { "id": 1, "name": "Kids Jeans 1", "price": 20, "image": "shirt.jpg" },
+    { "id": 2, "name": "Kids Jeans 2", "price": 25, "image": "shirt.jpg" }
+  ],
+  "Kids Shirts": [
+    { "id": 1, "name": "Kids Shirts 1", "price": 30, "image": "shirt.jpg" },
+    { "id": 2, "name": "Kids Shirts 2", "price": 35, "image": "shirt.jpg" }
+  ],
+  "Kids Trousers": [
+    { "id": 1, "name": "Kids Trousers 1", "price": 40, "image": "shirt.jpg" },
+    { "id": 2, "name": "Kids Trousers 2", "price": 45, "image": "shirt.jpg" }
+  ],
+  "Earphones": [
+    { "id": 1, "name": "Earphones 1", "price": 50, "image": "shirt.jpg" },
+    { "id": 2, "name": "Earphones 2", "price": 55, "image": "shirt.jpg" }
+  ],
+  "Smartwatches": [
+    { "id": 1, "name": "Smartwatches 1", "price": 60, "image": "shirt.jpg" },
+    { "id": 2, "name": "Smartwatches 2", "price": 65, "image": "shirt.jpg" }
+  ],
+  "Sunglasses": [
+    { "id": 1, "name": "Sunglasses 1", "price": 70, "image": "shirt.jpg" },
+    { "id": 2, "name": "Sunglasses 2", "price": 75, "image": "shirt.jpg" }
+  ],
+  "Jewllaries": [
+    { "id": 1, "name": "Jewllaries 1", "price": 80, "image": "shirt.jpg" },
+    { "id": 2, "name": "Jewllaries 2", "price": 85, "image": "shirt.jpg" }
+  ]
+}

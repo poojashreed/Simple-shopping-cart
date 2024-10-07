@@ -1,0 +1,162 @@
+.App {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('C:\Downloads\REACT COURSE\ShoppingCart\Shopping-cart\src\img.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.login {
+  align-items: center;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #c2c2c2;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.footer img {
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+.footer p {
+  margin: 5px 0;
+  color: #343a40;
+  font-size: 14px;
+}
+
+.sidebar {
+  display: flex;
+}
+
+.sidenav {
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #00b3c7;
+  width: auto;
+  height: 374px;
+  font-weight: bold;
+}
+
+.subnav {
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #7ab7ed;
+  font-weight: bold;
+}
+
+.subnav2 {
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #6a5db7;
+  font-weight: bold;
+}
+
+.sidenav ul, .subnav ul, .subnav2 ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.cart{
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidenav ul li, .subnav ul li, .subnav2 ul li {
+  padding: 8px 8px 8px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #000000;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav ul li:hover, .subnav ul li:hover, .subnav2 ul li:hover {
+  color: #f1f1f1;
+}
+
+.image {
+  height: 500px;
+  width: 50px;
+}
+
+.product {
+  margin-left: 120px;
+}
+
+.product ul {
+  display: flex;
+  background-color: #ccc;
+  flex-wrap: nowrap;
+  list-style-type: none;
+  padding: 0;
+}
+
+.product h2 {
+  text-align: center;
+}
+
+.product ul li {
+  flex: 1 1 200px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+}
